@@ -3,8 +3,7 @@ Fscry incompleted Ruby Malware For windows
 
 
 Show Message to the victim in HtmlPage run and run again ..
-![capture](https://user-images.githubusercontent.com/19738278/51751146-627be680-20b4-11e9-8ef2-cda1c038a4e3.JPG)
-
+![ccc](https://user-images.githubusercontent.com/19738278/51751288-cc948b80-20b4-11e9-90aa-fa3ccc23a3c8.JPG)
     [+] Files Encryption (symetrique random key )
     [+] process force kill
     [+] Vandalizing files
